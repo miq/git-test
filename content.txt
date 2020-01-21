@@ -1,5 +1,8 @@
 Unsere ersten Daten für einen Commit.
-\nZusätzliche informationen.
+Zusätzliche informationen.
+
+C++ ist toll!
+
 Und noch eine Zeile für content.txt
 Content vom branch für context.txt.
 Refactoring
