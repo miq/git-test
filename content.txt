@@ -1,1 +1,2 @@
 Unsere ersten Daten für einen Commit.
+\nZusätzliche informationen.
