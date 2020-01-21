@@ -1,2 +1,3 @@
 Unsere ersten Daten für einen Commit.
 \nZusätzliche informationen.
+Und noch eine Zeile für content.txt
